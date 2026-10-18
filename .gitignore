@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+playzone.db
+*.db
+.vscode/
+venv/
